@@ -8,4 +8,10 @@
 
 This reporsitory provides over 490,000 optimised multi-channel LED metamer spetra presented in the article "Optimising metameric spectra for integrative lighting to modulate the circadian system without affecting visual appearanc" authored by Babak Zandi, Oliver Stefani, Alexander Herzog, Luc J. M. Schlangen, Quang Vinh Trinh and Tran Quoc Khanh. 
 
+**Correspondence:** zandi@lichttechnik.tu-darmstadt.de<br/>
+**Google Scholar Profile:** [Babak Zandi](https://scholar.google.de/citations?user=LSA7SdAAAAAJ&hl=de)<br/>
+**Twitter:** [@BkZandi](https://twitter.com/bkzandi)
+
+## Overview
+
 **Coming Soon**
