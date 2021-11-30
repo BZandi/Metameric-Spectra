@@ -85,7 +85,7 @@ The TM30-20 metrics in the files `A00_Data/TM_30_CH6_L220.csv`, `A00_Data/TM_30_
 
 Link to the Luxpy library: https://github.com/ksmet1977/luxpy
 
-Read the following paper for more information about the lumpy library: Smet, K. A. G. (2019). Tutorial: The LuxPy Python Toolbox for Lighting and Color Science. LEUKOS, DOI: 10.1080/15502724.2018.1518717.
+Read the following paper for more information about the Luxpy library: Smet, K. A. G. (2019). Tutorial: The LuxPy Python Toolbox for Lighting and Color Science. LEUKOS, DOI: 10.1080/15502724.2018.1518717.
 
 ## Citation
 
