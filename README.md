@@ -12,7 +12,7 @@ This reporsitory provides over 490,000 optimised multi-channel LED metamer spect
 ---
 
 <div align="center">
-<a style="font-weight:bold" href="https://www.nature.com/articles/s41598-021-02136-y#citeas">[Paper]</a>
+<a style="font-weight:bold" href="https://www.nature.com/articles/s41598-021-02136-y">[Paper]</a>
 <a style="font-weight:bold" href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-021-02136-y/MediaObjects/41598_2021_2136_MOESM1_ESM.pdf">[Supplementary materials]</a>
 </div> 
 
