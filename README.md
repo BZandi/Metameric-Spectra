@@ -1,7 +1,7 @@
 # *Data Repository* <br/>Optimising metameric spectra for integrative lighting to modulate the circadian system without affecting visual appearance<br/>
 [![Published](https://img.shields.io/badge/Scientific%20Reports-Published-green)](https://www.nature.com/articles/s41598-020-79908-5)
 [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--021--02136--y-blue)](https://doi.org/10.1038/s41598-021-02136-y)
-[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](http://creativecommons.org/licenses/by/4.0/)
+[![GPL3](https://img.shields.io/badge/License-GNU%20GPLv3-blue"/)](https://choosealicense.com/licenses/gpl-3.0/#)
 
 This reporsitory provides over 490,000 optimised multi-channel LED metamer spectra presented in the article "Optimising metameric spectra for integrative lighting to modulate the circadian system without affecting visual appearance", authored by Babak Zandi, Oliver Stefani, Alexander Herzog, Luc J. M. Schlangen, Quang Vinh Trinh and Tran Quoc Khanh.
 
