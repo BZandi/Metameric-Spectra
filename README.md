@@ -91,18 +91,19 @@ Read the following paper for more information about the Luxpy library: Smet, K. 
 
 Please consider to cite our work if you find this repository or our results useful for your research:
 
-Zandi, B.; Stefani, O.; Herzog, A.; Schlangen, L.; Trinh, QV; Khanh, TQ. Optimising metameric spectra for integrative lighting to modulate the circadian system without affecting visual appearance. *Scientific Reports* **11,** 23188 (2021). https://doi.org/10.1038/s41598-021-02136-y
+Zandi, B., Stefani, O., Herzog, A., Schlangen, L., Trinh, Q. V., & Khanh, T. Q. (2021). Optimising metameric spectra for integrative lighting to modulate the circadian system without affecting visual appearance. *Scientific reports*, *11*(1), 23188. https://doi.org/10.1038/s41598-021-02136-y
 
 ```bib
-@article{Zandi2021d,
-author = {Zandi, Babak and Stefani, Oliver and Herzog, Alexander and Schlangen, Luc and Trinh, Quang Vinh and Khanh, Tran Quoc},
+@article{Zandi2021c,
+author = {Zandi, Babak and Stefani, Oliver and Herzog, Alexander and Schlangen, Luc J. M. and Trinh, Quang Vinh and Khanh, Tran Quoc},
 doi = {10.1038/s41598-021-02136-y},
 issn = {2045-2322},
 journal = {Scientific Reports},
+month = {dec},
 number = {1},
 pages = {23188},
 title = {{Optimising metameric spectra for integrative lighting to modulate the circadian system without affecting visual appearance}},
-url = {https://doi.org/10.1038/s41598-021-02136-y},
+url = {https://www.nature.com/articles/s41598-021-02136-y},
 volume = {11},
 year = {2021}}
 ```
